@@ -1,0 +1,14 @@
+H:\2. Ingenieria en sistemas de informacion\Materias 2do año\Paradigmas de Programacion\TP1\IntroduccionAlEncapsulamiento\obj\Debug\net9.0\IntroduccionAlEncapsulamiento.GeneratedMSBuildEditorConfig.editorconfig
+H:\2. Ingenieria en sistemas de informacion\Materias 2do año\Paradigmas de Programacion\TP1\IntroduccionAlEncapsulamiento\obj\Debug\net9.0\IntroduccionAlEncapsulamiento.AssemblyInfoInputs.cache
+H:\2. Ingenieria en sistemas de informacion\Materias 2do año\Paradigmas de Programacion\TP1\IntroduccionAlEncapsulamiento\obj\Debug\net9.0\IntroduccionAlEncapsulamiento.AssemblyInfo.cs
+H:\2. Ingenieria en sistemas de informacion\Materias 2do año\Paradigmas de Programacion\TP1\IntroduccionAlEncapsulamiento\obj\Debug\net9.0\IntroduccionAlEncapsulamiento.csproj.CoreCompileInputs.cache
+H:\2. Ingenieria en sistemas de informacion\Materias 2do año\Paradigmas de Programacion\TP1\IntroduccionAlEncapsulamiento\bin\Debug\net9.0\IntroduccionAlEncapsulamiento.exe
+H:\2. Ingenieria en sistemas de informacion\Materias 2do año\Paradigmas de Programacion\TP1\IntroduccionAlEncapsulamiento\bin\Debug\net9.0\IntroduccionAlEncapsulamiento.deps.json
+H:\2. Ingenieria en sistemas de informacion\Materias 2do año\Paradigmas de Programacion\TP1\IntroduccionAlEncapsulamiento\bin\Debug\net9.0\IntroduccionAlEncapsulamiento.runtimeconfig.json
+H:\2. Ingenieria en sistemas de informacion\Materias 2do año\Paradigmas de Programacion\TP1\IntroduccionAlEncapsulamiento\bin\Debug\net9.0\IntroduccionAlEncapsulamiento.dll
+H:\2. Ingenieria en sistemas de informacion\Materias 2do año\Paradigmas de Programacion\TP1\IntroduccionAlEncapsulamiento\bin\Debug\net9.0\IntroduccionAlEncapsulamiento.pdb
+H:\2. Ingenieria en sistemas de informacion\Materias 2do año\Paradigmas de Programacion\TP1\IntroduccionAlEncapsulamiento\obj\Debug\net9.0\IntroduccionAlEncapsulamiento.dll
+H:\2. Ingenieria en sistemas de informacion\Materias 2do año\Paradigmas de Programacion\TP1\IntroduccionAlEncapsulamiento\obj\Debug\net9.0\refint\IntroduccionAlEncapsulamiento.dll
+H:\2. Ingenieria en sistemas de informacion\Materias 2do año\Paradigmas de Programacion\TP1\IntroduccionAlEncapsulamiento\obj\Debug\net9.0\IntroduccionAlEncapsulamiento.pdb
+H:\2. Ingenieria en sistemas de informacion\Materias 2do año\Paradigmas de Programacion\TP1\IntroduccionAlEncapsulamiento\obj\Debug\net9.0\IntroduccionAlEncapsulamiento.genruntimeconfig.cache
+H:\2. Ingenieria en sistemas de informacion\Materias 2do año\Paradigmas de Programacion\TP1\IntroduccionAlEncapsulamiento\obj\Debug\net9.0\ref\IntroduccionAlEncapsulamiento.dll
